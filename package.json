@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Larsvo/StarterProject/issues"
   },
-  "homepage": "https://github.com/Larsvo/StarterProject#readme"
+  "homepage": "https://github.com/Larsvo/StarterProject#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  }
 }
